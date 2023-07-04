@@ -1,0 +1,1 @@
+# The project aims to develop a full-stack application for movie reviews using Java. The application will provide users with a platform to browse and review movies, as well as interact with other users through comments and ratings.
